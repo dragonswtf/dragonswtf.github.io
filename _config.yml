@@ -1,7 +1,7 @@
 # Setup
 title:               Katt's D&D Game
 tagline:             'No, like Actual D&D'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A nifty website to hold a bunch of notes for Katt, and players, in a nice way.  Because we deserve nice things.'
 url:                 https://www.dragons.wtf
 baseurl:             ''
 paginate:            5
